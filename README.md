@@ -64,6 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Multipli is a company surfaced as a portfolio company of pantera-capital and added to the API Evangelist network as a stub for enrichment. Sector: crypto. This profile is a lead awaiting the enrichment pipeline.
+Multipli is a decentralized yield-infrastructure protocol that lets users and institutions generate returns on tokenized real-world assets — gold, stocks, commodities and stablecoins — without selling their holdings. Its native rwaUSD token consolidates 100+ Treasury-backed stablecoins and 10+ tokenized gold assets into a single, standardized collateral primitive that can move freely across DeFi, earning yield through delta-neutral arbitrage (contango and funding-rate) strategies. Integration is smart-contract-based across multiple EVM chains via a suite of on-chain view functions (Ledger, RiskRegistry, PriceRouter); there is no public REST API, SDK or OpenAPI. Multipli is backed by Pantera Capital.
 
-Backed by: pantera-capital — https://multipli.fi/
+**Areas:** Company · Cryptocurrency · DeFi · Stablecoins · Yield · Real World Assets · Tokenization · Blockchain · EVM · Web3
+
+## Multipli on APIs.io
+
+Everything profiled for Multipli is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/multipli/](https://apis.io/providers/multipli/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Multipli Domain Security](https://apis.io/security/multipli/multipli-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://multipli.fi/)
+- [Documentation](https://docs.multipli.fi/)
+- [Getting started](https://docs.multipli.fi/user-guide/mainnet-guides/make-yield-on-multipli)
+- [Sign up](https://app.multipli.fi/)
+- [Blog](https://multipli.fi/blog)
+- [Security](https://docs.multipli.fi/risks/audit-reports)
+- [Terms of service](https://docs.multipli.fi/legal/standard-website-terms-of-use)
+- [Privacy policy](https://docs.multipli.fi/legal/privacy-policy)
+- [GitHub](https://github.com/multipli-libs)
+
+## API Evangelist rating
+
+**Kin Score 18.6** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/multipli/](https://apis.io/providers/multipli/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Multipli: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/multipli/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
